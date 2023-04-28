@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregoap
 - 👀 I’m interested in ... cloud computing
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... here
 
